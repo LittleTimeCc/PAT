@@ -2,21 +2,21 @@
 /*
 
 1002. A+B for Polynomials (25)
-Ê±¼äÏŞÖÆ
+æ—¶é—´é™åˆ¶
 400 ms
-ÄÚ´æÏŞÖÆ
+å†…å­˜é™åˆ¶
 65536 kB
-´úÂë³¤¶ÈÏŞÖÆ
+ä»£ç é•¿åº¦é™åˆ¶
 16000 B
-ÅĞÌâ³ÌĞò
+åˆ¤é¢˜ç¨‹åº
 Standard
-×÷Õß
+ä½œè€…
 CHEN, Yue
 This time, you are supposed to find A+B where A and B are two polynomials.
 
 Input
 
-Each input file contains one test case. Each case occupies 2 lines, and each line contains the information of a polynomial: K N1 aN1 N2 aN2 ... NK aNK, where K is the number of nonzero terms in the polynomial, Ni and aNi (i=1, 2, ..., K) are the exponents and coefficients, respectively. It is given that 1 <= K <= 10£¬0 <= NK < ... < N2 < N1 <=1000.
+Each input file contains one test case. Each case occupies 2 lines, and each line contains the information of a polynomial: K N1 aN1 N2 aN2 ... NK aNK, where K is the number of nonzero terms in the polynomial, Ni and aNi (i=1, 2, ..., K) are the exponents and coefficients, respectively. It is given that 1 <= K <= 10Â£Â¬0 <= NK < ... < N2 < N1 <=1000.
 
 Output
 
