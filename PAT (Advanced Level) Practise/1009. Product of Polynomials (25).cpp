@@ -1,15 +1,15 @@
 /*
 
 1009. Product of Polynomials (25)
-Ê±¼äÏŞÖÆ
+æ—¶é—´é™åˆ¶
 400 ms
-ÄÚ´æÏŞÖÆ
+å†…å­˜é™åˆ¶
 65536 kB
-´úÂë³¤¶ÈÏŞÖÆ
+ä»£ç é•¿åº¦é™åˆ¶
 16000 B
-ÅĞÌâ³ÌĞò
+åˆ¤é¢˜ç¨‹åº
 Standard
-×÷Õß
+ä½œè€…
 CHEN, Yue
 This time, you are supposed to find A*B where A and B are two polynomials.
 Input Specification:
