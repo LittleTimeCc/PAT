@@ -2,16 +2,16 @@
 /*
  
  1001. A+B Format (20)
- Ê±¼äÏŞÖÆ
- 400 ms
- ÄÚ´æÏŞÖÆ
- 65536 kB
- ´úÂë³¤¶ÈÏŞÖÆ
- 16000 B
- ÅĞÌâ³ÌĞò
- Standard
- ×÷Õß
- CHEN, Yue
+æ—¶é—´é™åˆ¶
+400 ms
+å†…å­˜é™åˆ¶
+65536 kB
+ä»£ç é•¿åº¦é™åˆ¶
+16000 B
+åˆ¤é¢˜ç¨‹åº
+Standard
+ä½œè€…
+CHEN, Yue
  Calculate a + b and output the sum in standard format -- that is, the digits must be separated into groups of three by commas (unless there are less than four digits).
 
  Input
