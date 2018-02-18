@@ -1,15 +1,15 @@
 /*
 
 1006. Sign In and Sign Out (25)
-Ê±¼äÏŞÖÆ
+æ—¶é—´é™åˆ¶
 400 ms
-ÄÚ´æÏŞÖÆ
+å†…å­˜é™åˆ¶
 65536 kB
-´úÂë³¤¶ÈÏŞÖÆ
+ä»£ç é•¿åº¦é™åˆ¶
 16000 B
-ÅĞÌâ³ÌĞò
+åˆ¤é¢˜ç¨‹åº
 Standard
-×÷Õß
+ä½œè€…
 CHEN, Yue
 At the beginning of every day, the first person who signs in the computer room will unlock the door, and the last one who signs out will lock the door. Given the records of signing in's and out's, you are supposed to find the ones who have unlocked and locked the door on that day.
 
